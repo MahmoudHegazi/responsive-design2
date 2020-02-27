@@ -3,3 +3,5 @@ full responsive design, but this time using HTML5 youtube to add my own youtube 
 
 
 ## please note I'm using inline css to make it open fast after downloading and save space and to be able to use HTML pasta to publish it 
+
+<img src="img.JPG" alt="screenshot">
